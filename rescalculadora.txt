@@ -1,0 +1,4 @@
+1.0 + 2.0 = 3.0
+1.0 + 5.0 = 6.0
+o numero decimal 24512 em binario é = 101111111000000
+o numero decimal 1512348465 em octal é = 13211115461
